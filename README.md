@@ -1,4 +1,4 @@
-# Apps That Are Cool
+# Apps That Are Cool [ARCHIVED]
 
 A curated list of apps I’ve found useful, especially for developers, tinkerers, and anyone who likes having awesome tools on their device.
 
